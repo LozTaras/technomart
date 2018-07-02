@@ -1,4 +1,4 @@
-# technomart
+# Technomart
 
 Использлваные технологии: 
  - HTML 
